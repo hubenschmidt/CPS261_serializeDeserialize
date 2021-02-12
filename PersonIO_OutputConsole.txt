@@ -1,0 +1,73 @@
+Please choose an option:
+0: quit
+1: add
+2: display
+2
+
+
+DISPLAYING ENTRIES
+-------------------
+Person [name=William Hubenschmidt, age=34]
+Person [name=John Doe, age=44]
+
+Please choose an option:
+0: quit
+1: add
+2: display
+1
+
+Enter name: 
+Shirley Hubenschmidt
+Enter age: 
+83
+
+******
+ADDING [name=Shirley Hubenschmidt, age=83]
+******
+
+Please choose an option:
+0: quit
+1: add
+2: display
+2
+
+
+DISPLAYING ENTRIES
+-------------------
+Person [name=William Hubenschmidt, age=34]
+Person [name=John Doe, age=44]
+Person [name=Shirley Hubenschmidt, age=83]
+
+Please choose an option:
+0: quit
+1: add
+2: display
+1
+
+Enter name: 
+Big Bird
+Enter age: 
+12
+
+******
+ADDING [name=Big Bird, age=12]
+******
+
+Please choose an option:
+0: quit
+1: add
+2: display
+2
+
+
+DISPLAYING ENTRIES
+-------------------
+Person [name=William Hubenschmidt, age=34]
+Person [name=John Doe, age=44]
+Person [name=Shirley Hubenschmidt, age=83]
+Person [name=Big Bird, age=12]
+
+Please choose an option:
+0: quit
+1: add
+2: display
